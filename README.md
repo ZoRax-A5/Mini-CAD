@@ -5,3 +5,5 @@ The graphics I use is ACLlib,a header file that supplied by Zhejiang University.
 
 Notice
 This version is used for my C programming class.Until now,my project only works out on condition that you use VS.I am a new learner,and I will do more improvement.
+
+Take the PC ppi into consideration.
